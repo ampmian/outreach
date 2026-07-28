@@ -23,7 +23,7 @@ export default function EventsPage () {
       title: "Workshop on Algebra",
       images: ["/2025/algebra_2025.jpeg"],
       subtitle: "Introduction to Groups and Symmetry",
-      introduction: "The workshop targets talented students with a deep interest in mathematics. It will provide participants with an opportunity for further study of set theory, which develops their ability in abstract and logical thinking. Participating students are required to complete coursework to understand their learning status.",
+      introduction: "The workshop targets talented students with a deep interest in mathematics. It will provide participants with an opportunity for further study of algebra, which develops their ability in abstract and logical thinking. Participating students are required to complete coursework to understand their learning status.",
       dates: ["6 Sep 2025", "13 Sep 2025"],
       time: "09:30 - 12:30",
       speakers: ["Prof. Omar Kidwai"],
@@ -34,14 +34,16 @@ export default function EventsPage () {
     },
     {
       title: "Workshop on Mathematical Modelling",
+      images: ["/2025/modelling_2025.jpg"],
       subtitle: "Game Theory Unlocked",
       introduction: "The activity gives senior secondary students an introduction to mathematical modelling, which aims to develop students' mathematical skills to solve real-life problems systematically. This event welcomes students interested in applied mathematics.",
-      dates: ["To be announced"],
-      // time: "14:30 - 17:30",
+      dates: ["27 Jun 2026", "4, 11 Jul 2026"],
+      time: "09:30 - 12:30",
       speakers: ["Dr. Lily Li Pan"],
       abstract: "Game theory, a captivating branch of mathematics, offers a unique perspective on strategic decision-making, with applications spanning diverse fields such as economics, politics, biology, and psychology. In this workshop, students will have the opportunity to delve into the fundamental concepts of game theory and explore how these principles can be applied to real-world challenges. Through interactive games and engaging discussions, students will gain valuable insights into strategic thinking and problem-solving.",
       target: "Senior secondary students (preferably knowing calculus)",
-      medium: "Cantonese supplemented with English"
+      medium: "Cantonese supplemented with English",
+      summary: "This workshop successfully engaged 33 students, introducing them to the art of modeling strategic decision-making through concepts like Nash Equilibria and real-world scenarios like the Prisoner's Dilemma. By demonstrating how math applies to economics, politics, and daily life, the course resonated deeply with participants—with student feedback warmly praising the lively, engaging teaching style for transforming mathematics from mere calculations into an exciting study of human interaction."
     },
     {
       title: "Mathematics Day Camp - Boolean Algebra and its Applications",
@@ -86,7 +88,7 @@ export default function EventsPage () {
       abstract: "The Lecture series consists of a series of five lectures designed to engage elite students with a keen interest in mathematics from local secondary schools in Hong Kong. These lectures will provide a rigorous introduction to fundamental mathematical concepts, including sets, logic, proofs, relations, and functions. By delving these topics, students will gain understanding of how to construct mathematical objects with precision, utilizing terms such as sets and elements.",
       target: "Senior secondary students with strong foundation or teachers interested in advanced mathematical theories",
       medium: "Cantonese supplemented with English",
-      summary: "The lecture series attracted around 40 students and 10 mathematics teachers. The lectures series provided a rigorous and intensive introduction to fundamental mathematical concepts, including sets, logic, proofs, relations, and functions. By delving these topics, participants gained understanding of how to construct mathematical objects with precision, utilizing terms such as sets and elements. Overall, the lecture series was well-received by students and provided an opportunity for them to explore advanced mathematical theories in a structured and engaging way."
+      summary: "The lecture series attracted around 30 students and 10 mathematics teachers. The lectures series provided a rigorous and intensive introduction to fundamental mathematical concepts, including sets, logic, proofs, relations, and functions. By delving these topics, participants gained understanding of how to construct mathematical objects with precision, utilizing terms such as sets and elements. Overall, the lecture series was well-received by students and provided an opportunity for them to explore advanced mathematical theories in a structured and engaging way."
     },
     {
       title: "Gifted Mathematics Program for Secondary School Students (2025-26)",
